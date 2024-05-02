@@ -1,1 +1,1 @@
-print("i love my self")
+print("same")
